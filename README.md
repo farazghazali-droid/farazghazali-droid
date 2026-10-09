@@ -7,7 +7,7 @@ I'm learning Python and machine learning so I can build tools that encode engine
 ### What I know well
 - Geometric dimensioning and tolerancing (ASME Y14.5), tolerance stack-ups
 - Design for manufacturing for injection-molded plastic parts
-- Taking products from concept through tooling to production
+- Project management (PMP): taking products from concept through tooling to production
 
 ### What I'm learning
 - Python, NumPy, Pandas, Matplotlib
